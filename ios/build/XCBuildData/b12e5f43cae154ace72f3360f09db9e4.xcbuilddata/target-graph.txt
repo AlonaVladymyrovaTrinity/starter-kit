@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'ViroStarterKit' in project 'ViroStarterKit' (no dependencies)
